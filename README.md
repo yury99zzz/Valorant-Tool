@@ -1,4 +1,4 @@
-# VALORANT TRACKER
+# VALORANT Tool
 
 プレイヤーのマッチ情報やロードアウトを素早く確認できる、軽量のデスクトップツールです。  
 **Releases** から最新版の `Valorant-Tool.exe` をダウンロードして使えます。
